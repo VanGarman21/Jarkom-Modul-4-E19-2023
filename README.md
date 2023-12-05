@@ -5,6 +5,24 @@ Laporan Resmi Praktikum Modul 3 Kelompok E19
 | M. Armand Giovani | 5025211054  |
 | Afiq Fawwaz Haidar | 5025211246  |
 
+# VLSM
+
+## Topologi GNS3 VLSM
+
+![topo gns3](https://github.com/VanGarman21/Jarkom-Modul-4-E19-2023/assets/100523471/a6b40833-0c03-43ea-9217-1115e5f3f747)
+
+![xslm drawio](https://github.com/VanGarman21/Jarkom-Modul-4-E19-2023/assets/100523471/587211ff-3d0e-4b74-aa63-5b42e0e18869)
+
+## Pembagian IP
+
+![image](https://github.com/VanGarman21/Jarkom-Modul-4-E19-2023/assets/100523471/cd3b4456-b9d3-4fa4-a0ae-a510a6bf92bc)
+
+## VLSM Tree
+
+![VLSM E19 drawio](https://github.com/VanGarman21/Jarkom-Modul-4-E19-2023/assets/100523471/48c396fe-ad78-4498-973e-8789c9553080)
+
+## konfigurasi 
+
 # CIDR
 
 ## Topologi PKT CIDR
