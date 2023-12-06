@@ -1,4 +1,4 @@
-# Jarkom-Modul-3-E19-2023
+# Jarkom-Modul-4-E19-2023
 Laporan Resmi Praktikum Modul 3 Kelompok E19
 | Nama               |  NRP       | 
 |--------------------|-------------|
@@ -538,6 +538,7 @@ route add -net 10.46.22.0 netmask 255.255.255.0 gw 10.46.22.1
 
 ## Testing
 
+https://github.com/VanGarman21/Jarkom-Modul-4-E19-2023/assets/100523471/893fc848-53d5-4ada-aa9b-e011801e9828
 
 # CIDR
 
